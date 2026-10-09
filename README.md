@@ -32,3 +32,4 @@ A web application to manage transactions and track income, expenses, and balance
 ### 📫 Connect With Me
 
 - GitHub: [@sarucodeeng1-lgtm](https://github.com/sarucodeeng1-lgtm)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/sarika-sindhu2001/?isSelfProfile=true)
